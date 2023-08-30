@@ -1,1 +1,1 @@
-My first readme
+Coding is super cool for beginners
